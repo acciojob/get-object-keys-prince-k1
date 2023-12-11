@@ -1,4 +1,4 @@
-let student = {
+let myObj = {
 	name : 'Prince',
     getKeys(){
 		let arr = [];
@@ -9,4 +9,4 @@ let student = {
 	}
 }
 
-student.getKeys();
+myObj.getKeys();
