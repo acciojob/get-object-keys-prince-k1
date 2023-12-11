@@ -9,3 +9,4 @@ let student = {
 	}
 }
 
+student.getKeys();
